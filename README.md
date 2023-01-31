@@ -1,4 +1,4 @@
-### 👋 Hey there! I'm Simon
+### Hi! I'm Simon
 
 <!--
 **sim15/sim15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
