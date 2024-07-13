@@ -1,2 +1,2 @@
-Hi there! I'm Simon, currently a computer science student at [Carnegie Mellon University](https://www.cs.cmu.edu/) working on [Tensordock](https://www.tensordock.com/) and various other disparate projects.
+I'm a computer science student at [Carnegie Mellon University](https://www.cs.cmu.edu/) working on [Tensordock](https://www.tensordock.com/) and various other disparate projects.
 Feel free to contact me at [sbeyzerov@gmail.com](mailto:sbeyzerov@gmail.com) or check out my [website](https://beyzerov.com/). 
